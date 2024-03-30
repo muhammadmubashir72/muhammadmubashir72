@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Coding" src="https://github.com/muhammadmubashir72/muhammadmubashir72-/commit/c7b1eb0b79c453d29acdc0c70ba3900ac0cf7a91"  >
+    <img alt="Coding" src="https://github.com/muhammadmubashir72/muhammadmubashir72-/blob/main/banner.png"  >
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Mubashir Saeedi</h1>
