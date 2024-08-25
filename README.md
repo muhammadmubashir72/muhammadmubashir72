@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Coding" src="https://github.com/muhammadmubashir72/muhammadmubashir72-/blob/main/cover photo.png"  >
+    <img alt="Coding" src="https://github.com/muhammadmubashir72/muhammadmubashir72/blob/main/banner.png"  >
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Mubashir Saeedi</h1>
