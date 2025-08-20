@@ -65,5 +65,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadmubashir72&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmubashir72&" alt="muhammadmubashir72" /></p>
