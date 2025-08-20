@@ -16,9 +16,36 @@
 
 - 📫 How to reach me **mubashirkhi72@gmail.com.**
 
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammadmubashir72&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmubashir72&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmubashir72&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 🐍 Snake Eating My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://wa.me/923190302939" target="_blank"><img align="center" src="https://github.com/asadumair00464/asadumair00464/blob/main/whatsapp.jpeg" alt="muhammad-mubashir-saeedi-57219b247" height="40" width="40" /></a>
+    <a href="https://wa.me/+923253570380" target="_blank"><img align="center" src="https://github.com/asadumair00464/asadumair00464/blob/main/whatsapp.jpeg" alt="muhammad-mubashir-saeedi-57219b247" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-mubashir-saeedi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-mubashir-saeedi/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100083407571080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubashir saeedi" height="30" width="40" /></a>
 <a href="https://instagram.com/mubashirkhi72" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubashirkhi72" height="30" width="40" /></a>
@@ -32,5 +59,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmubashir72&show_icons=true&locale=en&layout=compact" alt="muhammadmubashir72" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadmubashir72&show_icons=true&locale=en" alt="muhammadmubashir72" /></p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadmubashir72&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmubashir72&" alt="muhammadmubashir72" /></p>
